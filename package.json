@@ -7,8 +7,10 @@
   },
   "dependencies": {
     "next": "canary",
+    "next-safe-action": "7.10.5",
     "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "react-dom": "19.1.0",
+    "zod": "3.24.2"
   },
   "devDependencies": {
     "@types/node": "^22",
